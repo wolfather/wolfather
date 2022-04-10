@@ -73,3 +73,14 @@ Markup languages
   <img align="center" alt="html5" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
   <img align="center" alt="markdown" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
 </div>
+  <br /><br />
+  Get in touch:
+  <div>
+  <a href="https://www.linkedin.com/in/soisrael/" target="_blank">
+    <img alt="linkedin" src="https://img.shields.io/badge/Linkedin-blue?style=flat&logo=linkedin&labelColor=blue" />
+  </a>
+  <a href="https://calendly.com/israel-soares">
+    <img alt="calendfy" src="https://img.shields.io/badge/Calendly-blue?style=flat&logo=calendly&labelColor=blue" />
+  </a>
+  
+  </div>
