@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 <br /><br />
   📫 Get in touch:
   <div>
+  <a href title="E-mail" ="mailto:so.israelweb@gmail.com"><img src="https://img.shields.io/badge/gmail-white?style=flat&logo=gmail&labelColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/soisrael/" title="Connect with me" target="_blank">
     <img alt="linkedin" src="https://img.shields.io/badge/Linkedin-blue?style=flat&logo=linkedin&labelColor=blue" />
   </a>
