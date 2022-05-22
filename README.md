@@ -30,13 +30,13 @@ Here are some ideas to get you started:
 <hr />
 
 <div>
-Programming languages
+Frontend
 <div>
   <img align="center" alt="typescript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" alt="javascript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />          
   <hr />
 </div>
-Backend languages
+Backend
 <div>
   <img align="center" alt="Deno" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/denojs/denojs-original-wordmark.svg" />
 <img align="center" alt="Deno" height="50" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
