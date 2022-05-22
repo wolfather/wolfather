@@ -77,6 +77,9 @@ Styles
   <img align="center" alt="css3" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />  
   <img align="center" alt="sass" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
   <img align="center" alt="stylus" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stylus/stylus-original.svg" />
+  <img align="center" alt="stylus" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stylus/stylus-original.svg" />
+  <img align="center" alt="styled components" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/styled-component/styled-component.svg" />
+  <img align="center" alt="stitches" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stitches/stitches.svg" />
   <hr />
 </div>
 Markup languages
