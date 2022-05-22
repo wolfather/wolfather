@@ -69,6 +69,7 @@ Testing
     <img align="center" alt="jest" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />          
     <img align="center" alt="jasmine" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jasmine/jasmine-plain-wordmark.svg" />
     <img align="center" alt="mocha" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" />
+    <img align="center" alt="cypress" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypress/cypress.svg" />
     <hr />    
   </div>
   
