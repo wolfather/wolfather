@@ -44,7 +44,7 @@ Backend languages
 <hr />
 </div>
 
-Frontend languages
+Frontend frameworks and libraries
 <div>
   <img align="center" alt="Reactjs" height="50" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
   <img align="center" alt="Redux" height="50" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
