@@ -20,11 +20,3 @@ Here are some ideas to get you started:
     <img alt="calendfy" src="https://img.shields.io/badge/Calendly-blue?style=flat&logo=calendly&labelColor=blue" />
   </a>
 </div>
-<br /><br />
-
-
-<div>
-  <img align="center" alt="html5" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-  <img align="center" alt="markdown" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
-</div>
-  
