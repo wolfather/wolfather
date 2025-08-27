@@ -2,10 +2,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Reactjs/React Native, Angular10+, and Nodejs applications
+- 🔭 I’m currently working on ReactJS/React Native, Angular 10+, and Nodejs applications
 - 🌱 I’m currently working with Go and learning 🧪 Electron
-- 👯 I'm looking to collaborate on Javascript/Typescript or Python projects 
-- 🤔 I’m looking to help with juniors and mids developer's career mentoring
+- 👯 I'm looking to collaborate on JavaScript/Typescript or Go projects 
+- 🤔 I’m looking to help with juniors and mid-level developers' career mentoring
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am left hand
+- ⚡ Fun fact: I am left-handed
 
